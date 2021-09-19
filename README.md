@@ -11,9 +11,18 @@
       prueba luis guerra0
     >>>>>>> f6fdc245d18339182d8bde611c836367592edf4c
 
-# Proyecto cliclo 3 Mision tic 2022
+# Backend Login
 
+## Instalaciónes
 
-este es nuestra primera #$%$###$$%%#$####33
+npm init -y
 
-Estoy enb la rama main
+npm install express morgan mongoose
+
+Express Manejador de servidor en javaScript
+morgan Muestra las peticiones al servidor
+mongoose maneja base de datos en mongodb
+
+npm install nodemon -D
+
+nodemon me resfresca el servidor automaticamente 
