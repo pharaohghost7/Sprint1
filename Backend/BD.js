@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
             //mongod para repositorio locales
-const URI = 'mongodb+srv://andresb:12345ab@cluster0.cqqrc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
+const URI = '';
              
              // localhost:27017  //localhost:27017
 mongoose.connect(URI)
